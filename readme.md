@@ -5,4 +5,3 @@ more
 
 hello 
 1 to 10 
-ri
